@@ -7,3 +7,4 @@ fastapi
 boto3
 flask_cors
 pillow
+pandas
